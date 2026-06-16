@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "remake-flappy-bird-mqh10jvu",
+    "slug": "remake-flappy-bird-mqh10jvu",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0f1419"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mypip.remakeflappybirdmqh10jvu"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f1419"
+      },
+      "package": "com.mypip.remakeflappybirdmqh10jvu"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
